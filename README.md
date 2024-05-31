@@ -5,7 +5,7 @@ In this study, we developed a series of LSTM models to estimate the head impact 
 
 The Data folder include the simulated head impact kinematics used for this study. 
 
-X: the model input, which are the kinematics under different reference frame (angular, angular spherical, global, global spherical)
+X: the model input, which are the kinematics under different reference frame (angular, angular spherical, global, global spherical). Due to the limited storage space, this part of data will be shared upon request to Prof. David Camarillo.
 
 Y: the model output, which are the impact information (impact speed, pitch angle, yaw angle, impact orientation parameter X, Y, Z) and impact force.
 
